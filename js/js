@@ -1,0 +1,4 @@
+function makeStringFromArray(array, delimiter) {
+    let string = array.join(delimiter);
+
+    return string;}
